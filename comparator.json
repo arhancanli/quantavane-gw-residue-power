@@ -1,0 +1,22 @@
+{
+  "challenge_module": "Challenge",
+  "solution_module": "Solution",
+  "theorem_names": [
+    "GwPower.theorem4",
+    "GwPower.exists_goodExactColouring",
+    "GwPower.lt_of_gwProperty",
+    "GwPower.lt_GW",
+    "GwPower.theorem8",
+    "GwPower.exists_goodExactColouring_split",
+    "GwPower.lt_of_gwProperty_split",
+    "GwPower.lt_GW_split",
+    "GwPower.gw_4_4_4",
+    "GwPower.gw_5_5_4",
+    "GwPower.gw_6_6_4",
+    "GwPower.gw_6_4_4",
+    "GwPower.gw_8_5_4"
+  ],
+  "definition_names": [],
+  "permitted_axioms": ["propext", "Quot.sound", "Classical.choice"],
+  "enable_nanoda": true
+}
