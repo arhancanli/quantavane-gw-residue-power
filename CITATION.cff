@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: software
+title: "Gallai-van der Waerden lower bounds from m-th power residue colourings, for every m: Lean 4 proof"
+abstract: "Lean 4 proof (Mathlib) of lower bounds for Gallai-van der Waerden numbers from m-th power residue colourings, for every m."
+authors:
+  - family-names: Canli
+    given-names: Arhan
+    affiliation: Quantavane
+    email: arhan@quantavane.com
+license: Apache-2.0
+url: "https://quantavane.com"
+repository-code: "https://github.com/arhancanli/quantavane-gw-residue-power"
+keywords:
+  - Gallai-van der Waerden numbers
+  - power residues
+  - Lean 4
+  - Mathlib
