@@ -198,6 +198,22 @@ lake comparator           # Linux with bubblewrap: compares Challenge and Soluti
 - `GwPower/Basic.lean`: the proof.
 - `comparator.json`, `formalization.yaml`, `scripts/CheckAxioms.lean`, `NOTES.md` (local checks).
 
+## How to cite
+
+If you use this work, please cite it as below.
+
+```bibtex
+@misc{quantavane-gw-residue-power,
+  author       = {Canli, Arhan},
+  title        = {Gallai-van der Waerden lower bounds from m-th power residue colourings, for every m: Lean 4 proof},
+  year         = {2026},
+  howpublished = {\url{https://github.com/arhancanli/quantavane-gw-residue-power}},
+  note         = {Quantavane; Apache License 2.0}
+}
+```
+
+[CITATION.cff](CITATION.cff) gives the same reference for GitHub's "Cite this repository" button.
+
 ## Licence
 
 Apache-2.0 (`LICENSE`).
